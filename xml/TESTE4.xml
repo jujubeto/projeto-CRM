@@ -1,0 +1,1167 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Mendes</Author>
+  <LastAuthor>Mendes</LastAuthor>
+  <Created>2022-10-01T00:19:18Z</Created>
+  <LastSaved>2022-10-01T00:29:33Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7485</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s15">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#3D85C6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <NumberFormat ss:Format="&quot;R$&quot;#,##0"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Time"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <NumberFormat ss:Format="Short Time"/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s43">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s44">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#CCCCCC" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s45">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" ss:Color="#000000"/>
+   <Interior ss:Color="#F3F3F3" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Página1">
+  <Table ss:ExpandedColumnCount="60" ss:ExpandedRowCount="17" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s15" ss:DefaultColumnWidth="66"
+   ss:DefaultRowHeight="15.75">
+   <Column ss:StyleID="s15" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="8.25"/>
+   <Column ss:StyleID="s15" ss:Hidden="1" ss:AutoFitWidth="0" ss:Width="76.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="198"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="141"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="191.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="148.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="198"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="156.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="157.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="147"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="167.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="108"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="112.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="280.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="126.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="161.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="136.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="186.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="134.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="165"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="165.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="297.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="372.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="204"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="271.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="336.75"/>
+   <Row ss:AutoFitHeight="0" ss:Height="15">
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s19"/>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Nome da empresa</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Segmento</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Nome do contato</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">CNPJ ou CPF</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Telefone - Primeiro Contato</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Telefone Principal da empresa</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Whatsapp da empresa</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Telefone direto do contato ou representante</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">E-mail da empresa</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">E-mail do proprietário ou pessoa representante da empresa em chamada</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ano de Fundação da empresa</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Dias de funcionamento da empresa:</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Horário de funcionamento da empresa</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Logradouro</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Número</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Bairro</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">CEP</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Cidade</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">UF</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Formas de pagamento aceitas pela empresa (cliente)</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Possui site?</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Possui redes sociais?</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Possui fotos dos serviços ou da empresa?</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Informações complementares</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">CR festas</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Centro comercial</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">RONALDO PAULO DE SOUSA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">26278492000175</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">19983066377</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1933620867</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">19999109574</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">19983066377</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">financeiroataideesousa@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ronaldopsousa10@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2020</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">seg a sex 09 as 18 sab 08:30 as 13</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">RUA HENRIQUE ORRIN</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">568</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mogi guaçu</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">13846628</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">São Paulo </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dinheiro, Cartão de crédito, Cartão de débito, Transferência, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">NÃO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">@CR_Festas_</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Aldeia trade cosmeticos</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Centro comercial</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SONIA MARIA DE ALMEIDA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">23589925000115</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">18998256144</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1836310198</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">18997494802</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">18998256144</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">CRAI@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SONIAPIAZENTINSILVA@GMAIL.COM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2015</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SEG A SAB 10:00 AS 22:00 FERIADO A DOM 13:00 AS 19:00 </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">AVENIDA CARLOS PEREIRA DA SILVA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">6000 LOJA 133-A</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">GUANABARA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">16026035</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ARACATUBA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dinheiro, Cartão de crédito, Cartão de débito, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Não, mas consegue as fotos</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">COSMETICOS, FRAGRANCIAS, PERFUMARIA,HIDRATANTE, SABONETE, (142,50)</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cachoeira peixes e petiscos</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Centro comercial</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">	VLADIMIR ROGERIO DEVITTO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">19152975000163</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">19994015828</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">19994015828</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">19994015828</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">vladidevitto@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String" x:Ticked="1">	29.10.2013</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">horario comercial</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">AVENIDA CONSTANTINO STOCCO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">606</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">JARDIM SANTA CECILIA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">13650000</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">	SANTA CRUZ DAS PALMEIRAS</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cartão de crédito, Cartão de débito, Transferência, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">sim</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="16.5">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Gato Negro Gastronomia</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Buffet de casamento</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Elaine Vienna Dos Santos </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">30990322000196</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">12996369400</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">12996369400</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">12996369400</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">12996369400</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">gatonero@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">gatonero@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String" x:Ticked="1">20.07.2018</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">13 as 22</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">AV Riachuelo</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Portilho </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11630000</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Ilha Bela</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dinheiro, Cartão de crédito, Cartão de débito, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">@gatonegrogastronomina</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Montti-Park estacionamento</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Estacionamento</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ROSEVALSO FERREIRA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">18577669000106</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11981739820</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11981739820</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11981739820</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1135541809</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">monttipark@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">monttipark@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SEG A SEXTA 6:00 AS 22:00, SAB 9:00 AS 15:00</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">RUA FREI CANECA </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">557</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">CONSOLACAO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String" x:Ticked="1">00000000</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SAO PAULO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dinheiro, Cartão de crédito, Cartão de débito, Transferência, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">NÃO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">NÃO</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Realiza administração de negocios </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Serviços administrativos</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">KAROLINE </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">30547935000153</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11974252662</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1195362037</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1195362037</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11974252662</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">realiza.abtacao@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">criar@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">10:00 as 16:00</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">RUA SANTA RITA SALA 02</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">614</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">CENTRO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">13300070</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SAO PAULO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">NÃO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">istagran,facebook</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">desconto 142,50</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Casa de carne boi preto Lef</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Açougue</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">LUCIANO ALMEIDA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">22556939000170</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">15997563026</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1597301036</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1597301036</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">15997563026</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">NAOPOSSUI@GMAIL.COM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">castroluciano20@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String" x:Ticked="1">01.2020</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SEG A SAB 8 AS 18:30 DOM das 8 as 12:30.</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">RUA AGUA MARINHA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">11 A</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Galo de ouro</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">18520000</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">CERQUILHO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dinheiro, Cartão de crédito, Cartão de débito, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">142.5</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Viva magia turismo LTDA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Agência de viagens</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">TERESA APARECIDA CANDIDO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">28754134000117</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11996915337</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11963596366</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11963596366</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11996915337</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">contato@vivamagia.com.br</Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="String">teresa@vivamagia.com.br</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">09:00 as 18:00</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">francisco giareta tarodi</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">jardim harmonia</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">13253500</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">são paulo</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Boleto, Dinheiro, Cartão de crédito, Cartão de débito, Transferência, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">sim</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Schimit aquecedores d episcina</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Centro comercial</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">GILMARA GOMES DOMINGOS e NOE GOMES SCHIMIT </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">28191607000115</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11972320028</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11972320028</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11972320028</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11972320028</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">njaquecedores@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">njaquecedores@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">8h as 18h </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">RUA VICENTE JOAQUIM FERREIRA PASTINHA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">163</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">JARDIM SAO PAULO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">13221652</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">VARZEA PAULISTA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dinheiro, Cartão de crédito, Cartão de débito, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">NÃO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="String">Não, mas consegue as fotos</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">DGG Ambiental</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Serviço de coleta de lixo</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SANDRA REGINA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">27839468000120</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11947501614</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1158313011</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11947501614</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">11947501614</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">gasentulho@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">gasentulho@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String" x:Ticked="1">29.05.2017</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">24 horas</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">	RUA ESTEVAO FERNANDES</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">155</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">JARDIM SANTA EDWIGES CAPELA DO SOCORRO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">4913140</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">sao paulo</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Dinheiro, Cartão de crédito, Cartão de débito, Transferência, PIX</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">NÃO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">n</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SIM</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">AS MARIAS DE CIDA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Centro comercial</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ANA PAULA DE MORAES PAESANO</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">20709476000103</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">64999888470</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">64999888470</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">64999888470</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">64999888470</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">asmariasdecida@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">aanadepaulamp@yahoo.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2014</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">seg a sex 8:30 as 18:30 sab das 9 as 13</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Rua augusta bastos </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">776</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">centro</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">75901030</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">rio verde</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">GO</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">MECANICA DO GUIMA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Mecânica para carros</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SANDRO LUIS GUIMARAES</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">45271296000113</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">4635431384</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">4635431384</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">46999872761</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">46999805039</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SANDROGUIMARAES359@GMAIL.COM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SANDROGUIMARAES359@GMAIL.COM</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2022</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">seg a sex das 08hrs as 17:30hrs</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">R ROMANO ZANCHET</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">3346</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">centro</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">85770000</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">REALEZA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">PR</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Supermercado e açougue empório das carnes</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Açougue</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">GILSON OLIVEIRA COSTA JUNIOR</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">28382053000133</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">73991033754</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">73988272166</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">73988272166</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">73991033754</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">emporiodascarnes10@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">juniorcosta1302@hotmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2019</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">seg a terça das 08h ás 19h quarta, quinta e sext das 08 as 20h, sábado das 08 as 19h e domingo das 08 as 14h</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">RUA FLORESTA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">177</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">São Caetano</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">45607090</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">ITABUNA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">BA</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Double Cut</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Centro comercial</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">HEUDES HENRIQUE COSTA</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">45178138000113</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">17991186565</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">1733437000</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">17991186565</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">17991186565</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">discom@terra.com.br</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">heudes1984@gmail.com</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">2016</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda, Terça, Quarta, Quinta, Sexta</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Segunda a sexta 8:00 às 18:00 horas</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Cerio Gallao</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">258</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Parque Residencial Eldorado</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="Number">14706126</Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Bebedouro </Data></Cell>
+    <Cell ss:StyleID="s18"><Data ss:Type="String">SP</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s39"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s30"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:Index="27" ss:StyleID="s30"/>
+    <Cell ss:StyleID="s43"/>
+    <Cell ss:StyleID="s31"/>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+   <Row ss:Height="12.75">
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:Index="29" ss:StyleID="s31"/>
+    <Cell ss:StyleID="s44"/>
+    <Cell ss:StyleID="s45"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.31496062000000002"/>
+    <Footer x:Margin="0.31496062000000002"/>
+    <PageMargins x:Bottom="0.78740157499999996" x:Left="0.511811024"
+     x:Right="0.511811024" x:Top="0.78740157499999996"/>
+   </PageSetup>
+   <Unsynced/>
+   <NoSummaryRowsBelowDetail/>
+   <NoSummaryColumnsRightDetail/>
+   <Selected/>
+   <LeftColumnVisible>2</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
